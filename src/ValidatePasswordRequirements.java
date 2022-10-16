@@ -61,7 +61,7 @@ public class ValidatePasswordRequirements {
                                         System.out.println(
                                                         "\t1) Lower case letters, (a-z)");
                                         System.out.println(
-                                                        "\t2) Upper case letters, (a-z)");
+                                                        "\t2) Upper case letters, (A-Z)");
                                         System.out.println(
                                                         "\t3) Numbers, (0-9)");
                                         System.out.println(
@@ -73,7 +73,7 @@ public class ValidatePasswordRequirements {
                                         System.out.println(
                                                         "\t1) Lower case letters, (a-z)");
                                         System.out.println(
-                                                        "\t2) Upper case letters, (a-z)");
+                                                        "\t2) Upper case letters, (A-Z)");
                                         System.out.println(
                                                         "\t3) Numbers, (0-9)");
                                         System.out.println(
@@ -92,7 +92,7 @@ public class ValidatePasswordRequirements {
                         System.err.println(
                                         "\ta) Lower case letters, (a-z)");
                         System.err.println(
-                                        "\tb) Upper case letters, (a-z)");
+                                        "\tb) Upper case letters, (A-Z)");
                         System.err.println(
                                         "\tc) Numbers, (0-9)");
                         System.err.println(

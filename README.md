@@ -7,7 +7,7 @@ This program validates a password if it satisfies the following requirements:
 
     a) Lower case letters, (a-z)
 
-    b) Upper case letters, (a-z)
+    b) Upper case letters, (A-Z)
 
     c) Numbers, (0-9)
 
